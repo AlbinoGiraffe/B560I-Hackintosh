@@ -251,6 +251,8 @@
 				<data>AACbPg==</data>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
+				<key>framebuffer-stolenmem</key>
+				<data>AAAwAQ==</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
 			<dict>
@@ -930,7 +932,7 @@
 			<key>HideAuxiliary</key>
 			<true/>
 			<key>LauncherOption</key>
-			<string>Disabled</string>
+			<string>Full</string>
 			<key>LauncherPath</key>
 			<string>Default</string>
 			<key>PickerAttributes</key>
@@ -1095,7 +1097,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>agdpmod=pikera keepsyms=1 swd_panic=1 shikigva=80</string>
+				<string>keepsyms=1 swd_panic=1 agdpmod=pikera</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1164,7 +1166,7 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02128403J9PHC18C</string>
+			<string>C02102403J9PHC1FB</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -1178,9 +1180,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02G25Z2PN5T</string>
+			<string>C02F3MZNPN5T</string>
 			<key>SystemUUID</key>
-			<string>8852DA1A-62E0-41BB-A9AF-710C91F5AC8D</string>
+			<string>EC56059B-92C6-4348-8AD9-A1345255EA19</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
